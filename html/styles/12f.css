@@ -1,0 +1,47 @@
+p{
+  font-family: roboto, Arial;
+}
+.main-box {
+  display: flex;
+  background-color: rgb(142, 91, 205);
+  height: 50px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.download-button {
+  color: white;
+  border-width: 2px;
+  border-color: white;
+  border-style: solid;
+  background-color:rgb(142, 91, 205);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  cursor: pointer;
+
+}
+.middle-section {
+  max-width: 1000px;
+  flex: 1;
+}
+
+.left-section {
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  width: 60px;
+  
+}
+.right-section {
+  margin-right: 15px;
+}
+
+.search-bar {
+  width: 100%;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+}

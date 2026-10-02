@@ -1,0 +1,77 @@
+ .tahoma {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Tahoma;
+
+  }
+  .b {
+    line-height: 26px;
+  }
+  .deals {
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .end-text {
+    color: red;
+    font-style: italic;
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .course-name {
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 18px;
+    margin-bottom: 0;
+    
+  }
+
+  .sub-heading {
+    color: rgb(96, 96, 96);
+    margin-top: 3px;
+    margin-bottom:16px; 
+    font-size: 18px;
+  }
+
+  .descrp {
+    width: 300px;
+    font-family: Verdana;
+  }
+  .startbutton {
+    background-color: rgb(4, 146, 4);
+    margin-top: px;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-family: Verdana;
+    font-size: 14px;
+    border-radius: 6px;
+    cursor: pointer; 
+  }
+  .title {
+    font-family: Arial;
+    font-size: 26px;
+    text-align: Center;
+    font-weight: bold;
+    margin-bottom: 0;
+
+  }
+  .sub-title {
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 0;
+
+  }
+  .link {
+    color: rgb(97, 97, 238);
+    text-align: center;
+    margin-top: 16px;
+    cursor: pointer;
+  }

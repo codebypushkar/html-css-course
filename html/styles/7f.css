@@ -1,0 +1,42 @@
+p {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.email {
+  margin-bottom: 10px;
+  font-size: 16px;
+
+}
+.message {
+    font-size: 16px;
+    
+    margin-bottom: 20px;
+        
+}
+.email-box {
+  width: 400px;
+  font-size: 16px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(100, 100, 100);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.agree-button {
+  background-color: rgb(45, 132, 254);
+  color: white;
+  width: 400px;
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 113px;
+  padding-right: 113px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 30px;
+  
+}

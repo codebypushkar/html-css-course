@@ -1,0 +1,82 @@
+  p {
+    font-family: Arial;
+    margin-top: 0;
+  }.New {
+    color: red;
+    text-align: center;
+    font-size:14px;
+    margin-bottom: p10x;
+  }
+  .product {
+    font-size: 24px;
+    text-align: center; 
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .feature {
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 15px;
+  }
+  .price {
+    text-align: center;
+    color: grey;
+    margin-bottom: 25px;
+
+    
+  }
+  .buy {
+    background-color: rgb(55, 139, 250);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  .pp {
+    text-align: center;
+  }
+  .para {
+    margin-bottom: 8px;
+  }
+  .value {
+    font-size: 32px;
+    margin-bottom: 5px;
+  }
+  .usd {
+    color: rgb(100, 100, 100);
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
+  .percent {
+    color: rgb(24, 128, 56);
+    margin-bottom: 8px;
+  }
+  .time-data {
+    color: rgb(100, 100, 100);
+  }
+  .more-data {
+    color: rgb(235, 39, 39);
+
+  }
+  .user {
+    margin-bottom: 5px;
+  }
+  .name {
+    font-weight: bold;
+  }
+  .id {
+    color: rgb(100, 100, 100);
+  }
+  .descrp {
+    width: 500px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+  .link {
+    color: rgb(29, 155, 240);
+    cursor: pointer;
+  }

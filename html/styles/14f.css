@@ -1,0 +1,32 @@
+p{
+  font-family: Arial;
+}.picture {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+  object-fit: cover;
+  margin-bottom: 8px;
+}
+.profile {
+  width: 80px;
+  margin-top: 10px;
+}
+.chats-section{
+  width: 160px;
+  background-color: rgb(76, 76, 76);
+  text-align: left;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.heading {
+  color: white;
+  font-size: 14px;
+}
+.chats-category {
+  font-size: 14px;
+  color: rgb(178, 177, 177);
+}
+.infodiv {
+  display: flex;
+  justify-content: space-between;
+}
